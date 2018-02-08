@@ -1,1 +1,18 @@
 
+-- /* 
+-- * 0 Non Aktif
+-- * 1 Aktif
+-- * 2 Pending 
+-- * 3 Reject
+-- * 4 Pending
+-- * 5 Cancel
+-- * 11 Hapus
+
+-- * A Aktif
+-- * N New
+-- * C Cancel
+-- * P Pending
+-- * R Reject
+-- * X Hapus
+-- * Z Non Aktif
+-- */
