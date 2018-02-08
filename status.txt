@@ -10,6 +10,7 @@
 -- * A Aktif
 -- * N New / Baru
 -- * C Batal / Cancel
+-- * D Diagnosa / periksa
 -- * P Pending
 -- * R Reject
 -- * X Hapus
