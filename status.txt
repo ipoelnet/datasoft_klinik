@@ -11,6 +11,7 @@
 -- * N New / Baru
 -- * C Batal / Cancel
 -- * D Diagnosa / periksa
+-- * S Chasir / pembayaran
 -- * P Pending
 -- * R Reject
 -- * X Hapus
