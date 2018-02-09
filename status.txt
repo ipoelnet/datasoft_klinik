@@ -1,18 +1,28 @@
--- * 0 Non Aktif
--- * 1 Aktif
--- * 3 Baru
--- * 4 Pending 
--- * 5 Reject
--- * 5 Pending
--- * 11 Hapus
+/*
+* 07-Feb-18
+========================
+status data
+========================
+* 0 Non Aktif
+* 1 Aktif
+* 3 Baru
+* 4 Pending 
+* 5 Reject
+* 5 Pending
+* 11 Hapus
 
--- indikator_*
--- * A Aktif
--- * N New / Baru
--- * C Batal / Cancel
--- * D Diagnosa / periksa
--- * S Chasir / pembayaran
--- * P Pending
--- * R Reject
--- * X Hapus
--- * Z Non Aktif
+========================
+indikator_*
+========================
+* A / 1 Selesai / Aktif
+* N New / Baru
+* C Batal / Cancel
+* D Diagnosa / periksa
+* S Chasir / pembayaran
+* P Pending
+* R Reject
+* X Hapus
+* Z Non Aktif
+* WS Wait Chasir / Pembayaran
+* WD Wait Diagnosa
+*/
